@@ -1,6 +1,6 @@
-## Hi, I am Erik Lima!
+## Hi, I am Erik Lima 👋🏾
 
-<div align="center">
+<div align="left">
 
 
   <a href="https://github.com/erikflima">
