@@ -2,7 +2,7 @@
 
 <!-- TYPING EFFECT -->
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=25&center=false&vCenter=true&width=600&lines=Backend+Developer;Java+%7C+Spring+Boot;Microservices+Architecture;Always+learning+new+things" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=25&center=false&vCenter=true&width=600&lines=FullStack+Developer;Java+%7C+Spring+Boot;Microservices+Architecture;Always+learning+new+things" />
 </p>
 
 ---
